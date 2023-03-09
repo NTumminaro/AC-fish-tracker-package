@@ -216,22 +216,6 @@
     "img": "images/arowana.png",
     "codes": "arowana"
   },
-  // pale chub
-  {
-    "name": "pale chub",
-    "type": "toggle",
-    "loop": "true",
-    "img": "images/pale chub.png",
-    "codes": "pale chub"
-  },
-  // bluegill
-  {
-    "name": "bluegill",
-    "type": "toggle",
-    "loop": "true",
-    "img": "images/bluegill.png",
-    "codes": "bluegill"
-  },
   // piranha
   {
     "name": "piranha",
@@ -327,14 +311,6 @@
     "loop": "true",
     "img": "images/Barred knifejaw.png",
     "codes": "Barred knifejaw"
-  },
-  // Red snapper
-  {
-    "name": "Red snapper",
-    "type": "toggle",
-    "loop": "true",
-    "img": "images/Red snapper.png",
-    "codes": "Red snapper"
   },
   // Sea bass
   {

@@ -20,7 +20,6 @@
     "width": 400, 
     "content": {
       "type": "layout",
-
       "dropshadow": true,
       "margin": 1,
       "key": "shared_item_grid"

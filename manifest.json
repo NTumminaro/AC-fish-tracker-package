@@ -14,7 +14,10 @@
       "display_name": "6x6"
     },
     "month": {
-      "display_name": "By Month"
+      "display_name": "Monthly"
+    },
+    "month_compact": {
+      "display_name": "Monthly Compact"
     }
   }
 }
