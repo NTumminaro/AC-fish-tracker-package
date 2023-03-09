@@ -8,7 +8,7 @@ EmoTracker can be found [here](https://emotracker.net).
 
 ## Installation
 
-Download the lastest build from[Github](https://github.com/NTumminaro/AC-fish-tracker-package) and place it in your packs folder unzipped (still in the AC_fish_tracker_package folder).
+Download the lastest build from [Github](https://github.com/NTumminaro/AC-fish-tracker-package) and place it in your packs folder unzipped (still in the AC_fish_tracker_package folder).
 
 The packs folder for Emotracker can be found under `USER/Documents/EmoTracker/packs`.
 
