@@ -4,6 +4,8 @@ This is a simple fish tracker pack for Emotracker!
 
 For now, it only supports the fish available in Animal Crossing for Gamecube. However, I plan to add layouts for each Animal Crossing game's available fish, and possibly bugs.
 
+It has two default layouts, 5x8 and 6x6 to accommodate different stream layouts!
+
 EmoTracker can be found [here](https://emotracker.net).
 
 ## Installation
