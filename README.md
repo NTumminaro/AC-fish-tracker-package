@@ -19,3 +19,10 @@ Overides can be made in the emotracker application, and applied to the pack. How
 ## Questions or Suggestions
 
 If you have any questions or comments regarding this pack, feel free to reach out to me on discord, or submit an issue on the repo if you have any issues!
+
+## Screenshots
+
+![Screenshot](screenshots/screenshot1.png)
+![Screenshot](screenshots/screenshot2.png)
+
+
