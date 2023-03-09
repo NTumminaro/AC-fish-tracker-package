@@ -1,0 +1,30 @@
+﻿{
+  "shared_item_grid": {
+    "type": "itemgrid",
+    "h_alignment": "center",
+    "item_margin": "1,1",    
+    "item_size": 60,
+    "rows": [
+      [ "Crucian carp", "Brook trout", "Carp", "Koi", "Barbel steed" ],
+      [ "Dace", "Catfish", "Giant catfish", "Pale chub", "Bitterling" ],
+      [ "Loach", "Bluegill", "Small bass", "Bass", "Large bass" ],
+      [ "Giant snakehead", "Eel", "Freshwater goby", "Pond smelt", "Sweetfish" ],
+      [ "Cherry salmon", "Rainbow trout", "Large char", "Stringfish", "Salmon" ],
+      [ "Goldfish", "Popeyed goldfish", "Guppy", "Angelfish", "Piranha" ],
+      [ "Arowana", "Arapaima", "Crawfish", "Frog", "Killifish" ],
+      [ "Jellyfish", "Sea bass", "Red snapper", "Barred knifejaw", "Coelacanth" ]
+    ]
+  },
+  "tracker_default": {
+    "type": "container",
+    "background": "#212121",
+    "width": 400, 
+    "content": {
+      "type": "layout",
+
+      "dropshadow": true,
+      "margin": 1,
+      "key": "shared_item_grid"
+    }
+  }
+}

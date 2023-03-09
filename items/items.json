@@ -1,0 +1,347 @@
+﻿[
+  // salmon
+  {
+    "name": "salmon",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/salmon.png",
+    "codes": "salmon"
+  },
+  // crucian carp
+  {
+    "name": "crucian carp",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/crucian carp.png",
+    "codes": "crucian carp"
+  },
+  // carp
+  {
+    "name": "carp",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/carp.png",
+    "codes": "carp"
+  },
+  // koi
+  {
+    "name": "koi",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/koi.png",
+    "codes": "koi"
+  },
+  // barbel steed
+  {
+    "name": "barbel steed",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/barbel steed.png",
+    "codes": "barbel steed"
+  },
+  // dace
+  {
+    "name": "dace",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/dace.png",
+    "codes": "dace"
+  },
+  // catfish
+  {
+    "name": "catfish",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/catfish.png",
+    "codes": "catfish"
+  },
+  // pale chub
+  {
+    "name": "pale chub",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/pale chub.png",
+    "codes": "pale chub"
+  },
+  // bluegill
+  {
+    "name": "bluegill",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bluegill.png",
+    "codes": "bluegill"
+  },
+
+  // small bass
+  {
+    "name": "small bass",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/small bass.png",
+    "codes": "small bass"
+  },
+  // bass
+  {
+    "name": "bass",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bass.png",
+    "codes": "bass"
+  },
+  // large bass
+  {
+    "name": "large bass",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/large bass.png",
+    "codes": "large bass"
+  },
+  // freshwater goby
+  {
+    "name": "freshwater goby",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/freshwater goby.png",
+    "codes": "freshwater goby"
+  },
+  // cherry salmon
+  {
+    "name": "cherry salmon",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/cherry salmon.png",
+    "codes": "cherry salmon"
+  },
+  // rainbow trout
+  {
+    "name": "rainbow trout",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/rainbow trout.png",
+    "codes": "rainbow trout"
+  },
+  // goldfish
+  {
+    "name": "goldfish",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/goldfish.png",
+    "codes": "goldfish"
+  },
+  // popeyed goldfish
+  {
+    "name": "popeyed goldfish",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/popeyed goldfish.png",
+    "codes": "popeyed goldfish"
+  },
+  // guppy
+  {
+    "name": "guppy",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/guppy.png",
+    "codes": "guppy"
+  },
+  // angelfish
+  {
+    "name": "angelfish",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/angelfish.png",
+    "codes": "angelfish"
+  },
+  // arapaima
+  {
+    "name": "arapaima",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/arapaima.png",
+    "codes": "arapaima"
+  },
+  // crawfish
+  {
+    "name": "crawfish",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/crawfish.png",
+    "codes": "crawfish"
+  },  
+  // frog
+  {
+    "name": "frog",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/frog.png",
+    "codes": "frog"
+  },
+  // killifish
+  {
+    "name": "killifish",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/killifish.png",
+    "codes": "killifish"
+  },
+  // large char
+  {
+    "name": "large char",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/large char.png",
+    "codes": "large char"
+  },
+  // eel
+  {
+    "name": "eel",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/eel.png",
+    "codes": "eel"
+  },
+  // sweetfish
+  {
+    "name": "sweetfish",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/sweetfish.png",
+    "codes": "sweetfish"
+  },
+  // arowana
+  {
+    "name": "arowana",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/arowana.png",
+    "codes": "arowana"
+  },
+  // pale chub
+  {
+    "name": "pale chub",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/pale chub.png",
+    "codes": "pale chub"
+  },
+  // bluegill
+  {
+    "name": "bluegill",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bluegill.png",
+    "codes": "bluegill"
+  },
+  // piranha
+  {
+    "name": "piranha",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/piranha.png",
+    "codes": "piranha"
+  },
+  // jellyfish
+  {
+    "name": "jellyfish",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/jellyfish.png",
+    "codes": "jellyfish"
+  },
+  // red snapper
+  {
+    "name": "red snapper",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/red snapper.png",
+    "codes": "red snapper"
+  },
+  // stringfish
+  {
+    "name": "stringfish",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/stringfish.png",
+    "codes": "stringfish"
+  },
+  // brook trout
+  {
+    "name": "brook trout",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/brook trout.png",
+    "codes": "brook trout"
+  },
+  // Giant catfish
+  {
+    "name": "Giant catfish",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/Giant catfish.png",
+    "codes": "Giant catfish"
+  },
+  // Bitterling
+  {
+    "name": "Bitterling",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/Bitterling.png",
+    "codes": "Bitterling"
+  },
+  // Loach
+  {
+    "name": "Loach",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/Loach.png",
+    "codes": "Loach"
+  },
+  // Pond smelt
+  {
+    "name": "Pond smelt",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/Pond smelt.png",
+    "codes": "Pond smelt"
+  },
+  // Giant snakehead
+  {
+    "name": "Giant snakehead",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/Giant snakehead.png",
+    "codes": "Giant snakehead"
+  },
+  // Coelacanth
+  {
+    "name": "Coelacanth",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/Coelacanth.png",
+    "codes": "Coelacanth"
+  },
+  // Barred knifejaw
+  {
+    "name": "Barred knifejaw",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/Barred knifejaw.png",
+    "codes": "Barred knifejaw"
+  },
+  // Red snapper
+  {
+    "name": "Red snapper",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/Red snapper.png",
+    "codes": "Red snapper"
+  },
+  // Sea bass
+  {
+    "name": "Sea bass",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/Sea bass.png",
+    "codes": "Sea bass"
+  }
+]

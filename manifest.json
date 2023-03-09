@@ -1,0 +1,17 @@
+﻿{
+  "name": "Fish Tracker",
+  "game_name": "Animal Crossing GCN",
+  "platform": "gamecube",
+  "package_version": "1.0",
+  "package_uid": "AC_Fish_Tracker",
+  "layout_engine_version": "1.0",
+  "author": "MisterStealYourGil",
+  "variants": {
+    "classic": {
+      "display_name": "5x5"
+    },
+    "wide": {
+      "display_name": "6x6"
+    }
+  }
+}
