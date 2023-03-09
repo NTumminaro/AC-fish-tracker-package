@@ -1,0 +1,75 @@
+﻿{
+  "tracker_default": {
+    "type": "container",
+    "background": "#212121",
+    "width": 400, 
+    "content": {
+      "type": "tabbed",
+      "tabs": [
+        {
+          "title": "June",
+          "content": {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "1,1",    
+              "item_size": 60,
+              "rows": [
+                [ "Frog", "Crawfish", "Popeyed Goldfish", "Guppy", "Bluegill" ],
+                ["Pale Chub", "Brook Trout", "Giant Snakehead", "Angelfish", "Piranha"],
+                ["Eel", "Catfish"]
+              ]
+          }
+        },
+        {
+          "title": "August/September",
+          "content": {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "1,1",    
+              "item_size": 60,
+              "rows": [
+                [ "Jellyfish", "Red Snapper", "Barred Knifejaw", "Coelacanth", "Salmon" ]
+              ]
+          }
+        },
+        {
+          "title": "July",
+          "content": {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "1,1",    
+              "item_size": 60,
+              "rows": [
+                [ "Goldfish", "Sweetfish", "Arowana", "Large Bass", "Arapaima" ],
+                [ "Giant Catfish", "Killifish", "Sea Bass" ]
+              ]
+          }
+        },        {
+          "title": "February",
+          "content": {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "1,1",    
+              "item_size": 60,
+              "rows": [
+                [ "Sea Bass", "Pond Smelt", "Bitterling", "Koi", "Stringfish"],
+                [ "Small Bass", "Crucian Carp", "Freshwater Goby", "Bass", "Dace" ],
+                ["Barbel Steed", "Carp"]
+              ]
+          }
+        },        {
+          "title": "March",
+          "content": {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "1,1",    
+              "item_size": 60,
+              "rows": [
+                [ "Large Char", "Loach", "Cherry Salmon", "Rainbow Trout", "Koi"]
+              ]
+          }
+        }
+      ]
+    }
+  }
+}

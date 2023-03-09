@@ -12,6 +12,9 @@
     },
     "wide": {
       "display_name": "6x6"
+    },
+    "month": {
+      "display_name": "By Month"
     }
   }
 }
