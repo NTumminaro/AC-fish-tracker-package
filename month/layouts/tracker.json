@@ -1,7 +1,7 @@
 ﻿{
     "tracker_default": {
         "type": "container",
-        "background": "#1a1a1a",
+        "background": "#2a2a2a",
         "width": "stretch",
         "height": "stretch",
         "content": [
@@ -11,13 +11,12 @@
                     {
                         "type": "group",
                         "dock": "top",
-                        "dropshadow": true,
                         "header": "Months",
+                        "header_background": "#111111",
                         "content": [
                             {
                                 "type": "tabbed",
                                 "dock": "top",
-                                "dropshadow": true,
                                 "height": 220,
                                 "tabs": [
                                     {
@@ -28,6 +27,7 @@
                                             "h_alignment": "center",
                                             "item_margin": "1,1",
                                             "item_size": 60,
+                                            "dropshadow": true,
                                             "rows": [
                                                 ["Frog", "Crawfish", "Popeyed Goldfish", "Guppy", "Bluegill"],
                                                 ["Pale Chub", "Brook Trout", "Giant Snakehead", "Angelfish","Piranha"],
@@ -43,6 +43,7 @@
                                             "h_alignment": "center",
                                             "item_margin": "1,1",
                                             "item_size": 60,
+                                            "dropshadow": true,
                                             "rows": [
                                                 ["Jellyfish", "Red Snapper", "Barred Knifejaw", "Coelacanth", "Salmon"]
                                             ]
@@ -56,6 +57,7 @@
                                             "h_alignment": "center",
                                             "item_margin": "1,1",
                                             "item_size": 60,
+                                            "dropshadow": true,
                                             "rows": [
                                                 ["Goldfish", "Sweetfish", "Arowana", "Large Bass", "Arapaima"],
                                                 ["Giant Catfish", "Killifish", "Sea Bass"]
@@ -70,6 +72,7 @@
                                             "h_alignment": "center",
                                             "item_margin": "1,1",
                                             "item_size": 60,
+                                            "dropshadow": true,
                                             "rows": [
                                                 ["Sea Bass", "Pond Smelt", "Bitterling", "Koi", "Stringfish"],
                                                 ["Small Bass", "Crucian Carp", "Freshwater Goby", "Bass", "Dace"],
@@ -85,6 +88,7 @@
                                             "h_alignment": "center",
                                             "item_margin": "1,1",
                                             "item_size": 60,
+                                            "dropshadow": true,
                                             "rows": [
                                                 ["Large Char", "Loach", "Cherry Salmon", "Rainbow Trout", "Koi"]
                                             ]
@@ -97,14 +101,15 @@
                     {
                         "type": "group",
                         "dock": "bottom",
-                        "dropshadow": true,
                         "header": "All Fish",
+                        "header_background": "#111111",
                         "content": {
                             "type": "itemgrid",
                             "dock": "bottom",
                             "h_alignment": "center",
                             "item_margin": "1,1",
                             "item_size": 60,
+                            "dropshadow": true,
                             "rows": [
                                 ["Crucian carp", "Brook trout", "Carp", "Koi", "Barbel steed"],
                                 ["Dace", "Catfish", "Giant catfish", "Pale chub", "Bitterling"],
