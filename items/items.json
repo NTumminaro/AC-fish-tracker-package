@@ -1,7 +1,7 @@
 ﻿[
   // salmon
   {
-    "name": "salmon",
+    "name": "salmon (4)",
     "type": "toggle",
     "loop": "true",
     "img": "images/salmon.png",
@@ -9,7 +9,7 @@
   },
   // crucian carp
   {
-    "name": "crucian carp",
+    "name": "crucian carp (2)",
     "type": "toggle",
     "loop": "true",
     "img": "images/crucian carp.png",
@@ -17,7 +17,7 @@
   },
   // carp
   {
-    "name": "carp",
+    "name": "carp (4)",
     "type": "toggle",
     "loop": "true",
     "img": "images/carp.png",
@@ -25,7 +25,7 @@
   },
   // koi
   {
-    "name": "koi",
+    "name": "koi (4)",
     "type": "toggle",
     "loop": "true",
     "img": "images/koi.png",
@@ -33,7 +33,7 @@
   },
   // barbel steed
   {
-    "name": "barbel steed",
+    "name": "barbel steed (4)",
     "type": "toggle",
     "loop": "true",
     "img": "images/barbel steed.png",
@@ -41,7 +41,7 @@
   },
   // dace
   {
-    "name": "dace",
+    "name": "dace (3)",
     "type": "toggle",
     "loop": "true",
     "img": "images/dace.png",
@@ -49,7 +49,7 @@
   },
   // catfish
   {
-    "name": "catfish",
+    "name": "catfish (4)",
     "type": "toggle",
     "loop": "true",
     "img": "images/catfish.png",
@@ -57,7 +57,7 @@
   },
   // pale chub
   {
-    "name": "pale chub",
+    "name": "pale chub (2)",
     "type": "toggle",
     "loop": "true",
     "img": "images/pale chub.png",
@@ -65,7 +65,7 @@
   },
   // bluegill
   {
-    "name": "bluegill",
+    "name": "bluegill (2)",
     "type": "toggle",
     "loop": "true",
     "img": "images/bluegill.png",
@@ -74,7 +74,7 @@
 
   // small bass
   {
-    "name": "small bass",
+    "name": "small bass (2)",
     "type": "toggle",
     "loop": "true",
     "img": "images/small bass.png",
@@ -82,7 +82,7 @@
   },
   // bass
   {
-    "name": "bass",
+    "name": "bass (3)",
     "type": "toggle",
     "loop": "true",
     "img": "images/bass.png",
@@ -90,7 +90,7 @@
   },
   // large bass
   {
-    "name": "large bass",
+    "name": "large bass (4)",
     "type": "toggle",
     "loop": "true",
     "img": "images/large bass.png",
@@ -98,7 +98,7 @@
   },
   // freshwater goby
   {
-    "name": "freshwater goby",
+    "name": "goby (2)",
     "type": "toggle",
     "loop": "true",
     "img": "images/freshwater goby.png",
@@ -106,7 +106,7 @@
   },
   // cherry salmon
   {
-    "name": "cherry salmon",
+    "name": "cherry salmon (2)",
     "type": "toggle",
     "loop": "true",
     "img": "images/cherry salmon.png",
@@ -114,7 +114,7 @@
   },
   // rainbow trout
   {
-    "name": "rainbow trout",
+    "name": "rainbow trout (3)",
     "type": "toggle",
     "loop": "true",
     "img": "images/rainbow trout.png",
@@ -122,7 +122,7 @@
   },
   // goldfish
   {
-    "name": "goldfish",
+    "name": "goldfish (1)",
     "type": "toggle",
     "loop": "true",
     "img": "images/goldfish.png",
@@ -130,7 +130,7 @@
   },
   // popeyed goldfish
   {
-    "name": "popeyed goldfish",
+    "name": "popeyed goldfish (1)",
     "type": "toggle",
     "loop": "true",
     "img": "images/popeyed goldfish.png",
@@ -138,7 +138,7 @@
   },
   // guppy
   {
-    "name": "guppy",
+    "name": "guppy (1)",
     "type": "toggle",
     "loop": "true",
     "img": "images/guppy.png",
@@ -146,7 +146,7 @@
   },
   // angelfish
   {
-    "name": "angelfish",
+    "name": "angelfish (2)",
     "type": "toggle",
     "loop": "true",
     "img": "images/angelfish.png",
@@ -154,7 +154,7 @@
   },
   // arapaima
   {
-    "name": "arapaima",
+    "name": "arapaima (6+)",
     "type": "toggle",
     "loop": "true",
     "img": "images/arapaima.png",
@@ -162,7 +162,7 @@
   },
   // crawfish
   {
-    "name": "crawfish",
+    "name": "crawfish (2)",
     "type": "toggle",
     "loop": "true",
     "img": "images/crawfish.png",
@@ -170,7 +170,7 @@
   },  
   // frog
   {
-    "name": "frog",
+    "name": "frog (1)",
     "type": "toggle",
     "loop": "true",
     "img": "images/frog.png",
@@ -178,7 +178,7 @@
   },
   // killifish
   {
-    "name": "killifish",
+    "name": "killifish (1)",
     "type": "toggle",
     "loop": "true",
     "img": "images/killifish.png",
@@ -186,7 +186,7 @@
   },
   // large char
   {
-    "name": "large char",
+    "name": "large char (4)",
     "type": "toggle",
     "loop": "true",
     "img": "images/large char.png",
@@ -194,7 +194,7 @@
   },
   // eel
   {
-    "name": "eel",
+    "name": "eel (3)",
     "type": "toggle",
     "loop": "true",
     "img": "images/eel.png",
@@ -202,7 +202,7 @@
   },
   // sweetfish
   {
-    "name": "sweetfish",
+    "name": "sweetfish (2)",
     "type": "toggle",
     "loop": "true",
     "img": "images/sweetfish.png",
@@ -210,7 +210,7 @@
   },
   // arowana
   {
-    "name": "arowana",
+    "name": "arowana (3)",
     "type": "toggle",
     "loop": "true",
     "img": "images/arowana.png",
@@ -218,7 +218,7 @@
   },
   // piranha
   {
-    "name": "piranha",
+    "name": "piranha (2)",
     "type": "toggle",
     "loop": "true",
     "img": "images/piranha.png",
@@ -226,7 +226,7 @@
   },
   // jellyfish
   {
-    "name": "jellyfish",
+    "name": "jellyfish (3)",
     "type": "toggle",
     "loop": "true",
     "img": "images/jellyfish.png",
@@ -234,7 +234,7 @@
   },
   // red snapper
   {
-    "name": "red snapper",
+    "name": "red snapper (4)",
     "type": "toggle",
     "loop": "true",
     "img": "images/red snapper.png",
@@ -242,7 +242,7 @@
   },
   // stringfish
   {
-    "name": "stringfish",
+    "name": "stringfish (6)",
     "type": "toggle",
     "loop": "true",
     "img": "images/stringfish.png",
@@ -250,7 +250,7 @@
   },
   // brook trout
   {
-    "name": "brook trout",
+    "name": "brook trout (3)",
     "type": "toggle",
     "loop": "true",
     "img": "images/brook trout.png",
@@ -258,7 +258,7 @@
   },
   // Giant catfish
   {
-    "name": "Giant catfish",
+    "name": "Giant catfish (5)",
     "type": "toggle",
     "loop": "true",
     "img": "images/Giant catfish.png",
@@ -266,7 +266,7 @@
   },
   // Bitterling
   {
-    "name": "Bitterling",
+    "name": "Bitterling (1)",
     "type": "toggle",
     "loop": "true",
     "img": "images/Bitterling.png",
@@ -274,7 +274,7 @@
   },
   // Loach
   {
-    "name": "Loach",
+    "name": "Loach (1)",
     "type": "toggle",
     "loop": "true",
     "img": "images/Loach.png",
@@ -282,7 +282,7 @@
   },
   // Pond smelt
   {
-    "name": "Pond smelt",
+    "name": "Pond smelt (1)",
     "type": "toggle",
     "loop": "true",
     "img": "images/Pond smelt.png",
@@ -290,7 +290,7 @@
   },
   // Giant snakehead
   {
-    "name": "Giant snakehead",
+    "name": "Giant snakehead (5)",
     "type": "toggle",
     "loop": "true",
     "img": "images/Giant snakehead.png",
@@ -298,7 +298,7 @@
   },
   // Coelacanth
   {
-    "name": "Coelacanth",
+    "name": "Coelacanth (5)",
     "type": "toggle",
     "loop": "true",
     "img": "images/Coelacanth.png",
@@ -306,7 +306,7 @@
   },
   // Barred knifejaw
   {
-    "name": "Barred knifejaw",
+    "name": "Barred knifejaw (4)",
     "type": "toggle",
     "loop": "true",
     "img": "images/Barred knifejaw.png",
@@ -314,7 +314,7 @@
   },
   // Sea bass
   {
-    "name": "Sea bass",
+    "name": "Sea bass (3)",
     "type": "toggle",
     "loop": "true",
     "img": "images/Sea bass.png",
